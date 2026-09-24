@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header{
+    text-align: center;
+}
+
+.avatar{
+    width: 300px;
+}
+
+.nikname{
+    font-size: 36px;
+}
+
+.profession{
+    color: blue;
+}
+
+.main{
+    text-align: center;
+}
+
+.info{
+    border: solid black 3px;
+}
+
+.songs ul{
+    list-style: none;
+}
+
+.footer{
+    text-align: center;
+}
+
+.footer_info{
+    text-decoration: none;
+    color:black;
+}
+
+.table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table td,
+.table th{
+    border: solid black 1px;
+    padding: 15px;
+}
+
+.input{
+    width: 70%;
+}
+
+.separator{
+    background-color: blueviolet;
+    width: 80%;
+    height: 3px;
+}
+
+.album{
+    width: 200px;
+}
+
+.quote{
+    font-size: 28px;
+}
